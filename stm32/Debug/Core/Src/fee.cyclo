@@ -1,0 +1,4 @@
+../Core/Src/fee.c:3:19:fee_write	6
+../Core/Src/fee.c:40:6:fee_read	2
+../Core/Src/fee.c:48:6:fee_write_data	1
+../Core/Src/fee.c:55:6:fee_read_data	1

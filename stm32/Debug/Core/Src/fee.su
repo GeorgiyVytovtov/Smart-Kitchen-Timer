@@ -1,0 +1,4 @@
+../Core/Src/fee.c:3:19:fee_write	1104	static
+../Core/Src/fee.c:40:6:fee_read	32	static
+../Core/Src/fee.c:48:6:fee_write_data	56	dynamic
+../Core/Src/fee.c:55:6:fee_read_data	56	dynamic

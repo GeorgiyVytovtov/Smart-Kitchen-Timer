@@ -1,0 +1,5 @@
+../Core/Src/display.c:3:6:view_blink_current_time	16	static
+../Core/Src/display.c:20:6:view_blink_timer_time	16	static
+../Core/Src/display.c:42:6:view_temperature	56	static
+../Core/Src/display.c:50:6:view_current_time	24	static
+../Core/Src/display.c:57:6:view_timer_time	40	static

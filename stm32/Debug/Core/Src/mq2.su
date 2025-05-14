@@ -1,0 +1,6 @@
+../Core/Src/mq2.c:9:6:mq2_init	16	static
+../Core/Src/mq2.c:14:6:mq2_start_measurement	8	static
+../Core/Src/mq2.c:20:6:is_ready_data	4	static
+../Core/Src/mq2.c:25:10:mq2_get_data	4	static
+../Core/Src/mq2.c:30:6:mq2_is_alarm	24	static
+../Core/Src/mq2.c:37:6:HAL_ADC_ConvCpltCallback	16	static

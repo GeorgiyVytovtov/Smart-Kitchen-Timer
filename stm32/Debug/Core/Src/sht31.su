@@ -1,0 +1,5 @@
+../Core/Src/sht31.c:7:6:sht31_init	16	static
+../Core/Src/sht31.c:11:9:SHT31_CRC8	32	static
+../Core/Src/sht31.c:25:6:sht31_start_mesurement	24	static
+../Core/Src/sht31.c:42:6:sht31_is_ready_to_read	8	static
+../Core/Src/sht31.c:50:6:SHT31_read_temp_humidity	40	static

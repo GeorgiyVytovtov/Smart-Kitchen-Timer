@@ -1,0 +1,5 @@
+../Core/Src/control.c:11:6:read_time	3
+../Core/Src/control.c:20:6:get_sensor_data	2
+../Core/Src/control.c:29:6:timer_control	5
+../Core/Src/control.c:45:6:alarm_control	3
+../Core/Src/control.c:56:6:display_update	4

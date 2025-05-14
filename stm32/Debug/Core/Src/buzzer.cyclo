@@ -1,0 +1,4 @@
+../Core/Src/buzzer.c:15:6:buzzer_init	1
+../Core/Src/buzzer.c:22:6:buzzer_start	1
+../Core/Src/buzzer.c:31:6:buzzer_update	9
+../Core/Src/buzzer.c:54:6:buzzer_reset	1

@@ -1,0 +1,6 @@
+../Core/Src/buttons.c:32:18:read_start_stop_button	15
+../Core/Src/buttons.c:78:6:read_reset_button	7
+../Core/Src/buttons.c:93:6:read_up_button	7
+../Core/Src/buttons.c:108:6:read_down_button	7
+../Core/Src/buttons.c:123:6:read_left_button	7
+../Core/Src/buttons.c:138:6:read_right_button	7

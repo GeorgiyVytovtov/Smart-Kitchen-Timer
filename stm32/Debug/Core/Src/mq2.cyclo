@@ -1,0 +1,6 @@
+../Core/Src/mq2.c:9:6:mq2_init	1
+../Core/Src/mq2.c:14:6:mq2_start_measurement	2
+../Core/Src/mq2.c:20:6:is_ready_data	1
+../Core/Src/mq2.c:25:10:mq2_get_data	1
+../Core/Src/mq2.c:30:6:mq2_is_alarm	2
+../Core/Src/mq2.c:37:6:HAL_ADC_ConvCpltCallback	2
