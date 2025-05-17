@@ -9,6 +9,9 @@ The gas sensor can detect gas leaks and triggers an audible alarm for safety.
 The timer has a modular design, ensuring clean and maintainable code.
     
 ## Photo:
+![Photo1](https://github.com/GeorgiyVytovtov/Smart-Kitchen-Timer/blob/main/photo1.jpg)
+![Photo2](https://github.com/GeorgiyVytovtov/Smart-Kitchen-Timer/blob/main/photo2.jpg)
+![Photo3](https://github.com/GeorgiyVytovtov/Smart-Kitchen-Timer/blob/main/photo3.jpg)
 
 ## Technologies Used:
 - Embedded C
